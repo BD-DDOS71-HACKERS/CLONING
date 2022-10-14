@@ -12,5 +12,8 @@ pkg install python2
 
 pkg install git
 git clone https://github.com/BD-DDOS71-HACKERS/CLONING.git
+
+
+
 cd CLONING
 python crack.py
